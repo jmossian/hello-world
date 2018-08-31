@@ -1,0 +1,9 @@
+c:\Users\usuario\Desktop\p2\PII_Ejercicio_Debug_Test-master\src\Library\bin\Debug\netcoreapp2.1\Library.deps.json
+c:\Users\usuario\Desktop\p2\PII_Ejercicio_Debug_Test-master\src\Library\bin\Debug\netcoreapp2.1\Library.dll
+c:\Users\usuario\Desktop\p2\PII_Ejercicio_Debug_Test-master\src\Library\bin\Debug\netcoreapp2.1\Library.pdb
+c:\Users\usuario\Desktop\p2\PII_Ejercicio_Debug_Test-master\src\Library\obj\Debug\netcoreapp2.1\Library.csprojAssemblyReference.cache
+c:\Users\usuario\Desktop\p2\PII_Ejercicio_Debug_Test-master\src\Library\obj\Debug\netcoreapp2.1\Library.csproj.CoreCompileInputs.cache
+c:\Users\usuario\Desktop\p2\PII_Ejercicio_Debug_Test-master\src\Library\obj\Debug\netcoreapp2.1\Library.AssemblyInfoInputs.cache
+c:\Users\usuario\Desktop\p2\PII_Ejercicio_Debug_Test-master\src\Library\obj\Debug\netcoreapp2.1\Library.AssemblyInfo.cs
+c:\Users\usuario\Desktop\p2\PII_Ejercicio_Debug_Test-master\src\Library\obj\Debug\netcoreapp2.1\Library.dll
+c:\Users\usuario\Desktop\p2\PII_Ejercicio_Debug_Test-master\src\Library\obj\Debug\netcoreapp2.1\Library.pdb

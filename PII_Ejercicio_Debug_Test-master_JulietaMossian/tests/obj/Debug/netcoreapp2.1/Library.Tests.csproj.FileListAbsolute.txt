@@ -1,0 +1,17 @@
+c:\Users\usuario\Desktop\p2\PII_Ejercicio_Debug_Test-master\tests\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+c:\Users\usuario\Desktop\p2\PII_Ejercicio_Debug_Test-master\tests\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+c:\Users\usuario\Desktop\p2\PII_Ejercicio_Debug_Test-master\tests\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+c:\Users\usuario\Desktop\p2\PII_Ejercicio_Debug_Test-master\tests\bin\Debug\netcoreapp2.1\Library.Tests.deps.json
+c:\Users\usuario\Desktop\p2\PII_Ejercicio_Debug_Test-master\tests\bin\Debug\netcoreapp2.1\Library.Tests.runtimeconfig.json
+c:\Users\usuario\Desktop\p2\PII_Ejercicio_Debug_Test-master\tests\bin\Debug\netcoreapp2.1\Library.Tests.runtimeconfig.dev.json
+c:\Users\usuario\Desktop\p2\PII_Ejercicio_Debug_Test-master\tests\bin\Debug\netcoreapp2.1\Library.Tests.dll
+c:\Users\usuario\Desktop\p2\PII_Ejercicio_Debug_Test-master\tests\bin\Debug\netcoreapp2.1\Library.Tests.pdb
+c:\Users\usuario\Desktop\p2\PII_Ejercicio_Debug_Test-master\tests\bin\Debug\netcoreapp2.1\Library.dll
+c:\Users\usuario\Desktop\p2\PII_Ejercicio_Debug_Test-master\tests\bin\Debug\netcoreapp2.1\Library.pdb
+c:\Users\usuario\Desktop\p2\PII_Ejercicio_Debug_Test-master\tests\obj\Debug\netcoreapp2.1\Library.Tests.csprojAssemblyReference.cache
+c:\Users\usuario\Desktop\p2\PII_Ejercicio_Debug_Test-master\tests\obj\Debug\netcoreapp2.1\Library.Tests.csproj.CoreCompileInputs.cache
+c:\Users\usuario\Desktop\p2\PII_Ejercicio_Debug_Test-master\tests\obj\Debug\netcoreapp2.1\Library.Tests.AssemblyInfoInputs.cache
+c:\Users\usuario\Desktop\p2\PII_Ejercicio_Debug_Test-master\tests\obj\Debug\netcoreapp2.1\Library.Tests.AssemblyInfo.cs
+c:\Users\usuario\Desktop\p2\PII_Ejercicio_Debug_Test-master\tests\obj\Debug\netcoreapp2.1\Library.Tests.csproj.CopyComplete
+c:\Users\usuario\Desktop\p2\PII_Ejercicio_Debug_Test-master\tests\obj\Debug\netcoreapp2.1\Library.Tests.dll
+c:\Users\usuario\Desktop\p2\PII_Ejercicio_Debug_Test-master\tests\obj\Debug\netcoreapp2.1\Library.Tests.pdb
